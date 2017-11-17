@@ -2,9 +2,11 @@
   <component name="UISettings">
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
+    <option name="FONT_FACE" value="Tahoma" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="smoothScrolling" value="true" />
